@@ -22,7 +22,7 @@ Two public OpenNeuro datasets combined: 143 subjects (82 FEP, 61 controls).
 ## Run the Notebook
 1. Clone this repo.  
 2. Install dependencies: `pip install -r requirements.txt`.  
-3. Open and run `notebooks/MVP.ipynb` (Google Colab or Jupyter).
+3. Open and run `MVP.ipynb` (Google Colab or Jupyter).
 
 ## License
 GNU General Public License v3.0
@@ -32,5 +32,6 @@ OpenNeuro
 
 ## Contact
 Pedro Fortes
+
 https://github.com/pedrof0rtes
 https://www.linkedin.com/in/pedro-fortes-psi/
