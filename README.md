@@ -25,7 +25,7 @@ Two public OpenNeuro datasets combined: 143 subjects (82 FEP, 61 controls).
 3. Open and run `notebooks/MVP.ipynb` (Google Colab or Jupyter).
 
 ## License
-MIT.
+GNU General Public License v3.0
 
 ## Data Source
 OpenNeuro
