@@ -1,0 +1,18 @@
+# Libraries installed explicitly in the notebook
+boto3
+pyprep
+mne-icalabel
+autoreject
+
+# Main libraries
+mne
+statsmodels
+numpy
+pandas
+matplotlib
+seaborn
+scipy
+scikit-learn
+
+# Other potentially useful libraries (usually come with scikit-learn)
+joblib
